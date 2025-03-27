@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/AlfredoArizmende/portfolio_nextjs/main/public/Portada-LinkedIn-Alfredo.png"  />
+</div>
+
+###
+
 <h2 align="left">Sobre mi 👇</h2>
 
 ###
@@ -10,7 +16,7 @@
 
 ###
 
-<h2 align="left">Mis  Herramientas</h2>
+<h2 align="left">🛠️Mis  Herramientas</h2>
 
 ###
 
@@ -38,6 +44,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">📫 Contáctame</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
 ###
